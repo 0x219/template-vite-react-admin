@@ -14,3 +14,7 @@
 - HTTP client: `axios@1.0.0-alpha.1`
 - Date: `dayjs@1.11.3`
 - JSON: `superjson@1.9.1`
+
+## OSCS
+
+[![OSCS Status](https://www.oscs1024.com/platform/badge/0x219/template-vite-react-admin.svg?size=large)](https://www.oscs1024.com/project/0x219/template-vite-react-admin?ref=badge_large)
