@@ -2,6 +2,10 @@
 
 ⚡️ A vite-based **React** background system solution.
 
+## Status
+
+🚧 In progress...
+
 ## Technology Stack
 
 - Framework: `react@18.2.0`
