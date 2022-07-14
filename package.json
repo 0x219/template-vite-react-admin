@@ -16,7 +16,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-query": "4.0.0-beta.23",
-    "react-router-dom": "6.4.0-pre.8",
+    "react-router-dom": "6.4.0-pre.9",
     "superjson": "1.9.1"
   },
   "devDependencies": {

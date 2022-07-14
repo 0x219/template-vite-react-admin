@@ -10,7 +10,7 @@ specifiers:
   react: 18.2.0
   react-dom: 18.2.0
   react-query: 4.0.0-beta.23
-  react-router-dom: 6.4.0-pre.8
+  react-router-dom: 6.4.0-pre.9
   sort-package-json: 1.57.0
   superjson: 1.9.1
   typescript: 4.7.4
@@ -22,7 +22,7 @@ dependencies:
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-query: 4.0.0-beta.23_biqbaboplfbrettd7655fr4n2y
-  react-router-dom: 6.4.0-pre.8_biqbaboplfbrettd7655fr4n2y
+  react-router-dom: 6.4.0-pre.9_biqbaboplfbrettd7655fr4n2y
   superjson: 1.9.1
 
 devDependencies:
@@ -363,8 +363,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@remix-run/router/0.2.0-pre.3:
-    resolution: {integrity: sha512-/1vRiMh8j31PBgLgB2lqcwDDEBEwsnucOouZ8GvJTRNHULkPOU3kvQ1ZUpt9IPd1lS5AVC93I9pVLnFhlNA4Mw==}
+  /@remix-run/router/0.2.0-pre.4:
+    resolution: {integrity: sha512-JWekNjixua6FwkhEFuVVlaDhcpKYx7YKe2x+cCDFPLfojUH6kgEdrVVbkjL6taO80h+8UEGbb/fi9pvbJ4bD9Q==}
     dev: false
 
   /@types/glob/7.2.0:
@@ -1149,23 +1149,23 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /react-router-dom/6.4.0-pre.8_biqbaboplfbrettd7655fr4n2y:
-    resolution: {integrity: sha512-5hxQdiPOG98YOANbJ8IBUKbRgU6k4/TSX4VyO6jRWoG6KY0K2EG5wjEZgZ0tlAN9fXFgnHsro/HKi/r+HxugAg==}
+  /react-router-dom/6.4.0-pre.9_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-6zl6BBo3QaAwiJyFyn+8oGE37cvMzcjVMHGqQFbF24+lGkzGzqIAKJRPkof9BBXMM6CigqKrdkf/LasZz1XLXw==}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
     dependencies:
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
-      react-router: 6.4.0-pre.8_react@18.2.0
+      react-router: 6.4.0-pre.9_react@18.2.0
     dev: false
 
-  /react-router/6.4.0-pre.8_react@18.2.0:
-    resolution: {integrity: sha512-xwt2s9jW5NaakymlSRG0hZoGda6E/Skfgmj/4vlwvRX/kqoO8jU0g+Vi3sHDCatH/V+GjDyTQkdMEDm8qGsBsQ==}
+  /react-router/6.4.0-pre.9_react@18.2.0:
+    resolution: {integrity: sha512-ijnskI4Kw8Y1UnTOk9rrtxBK4jJOGViyUAkgV3Je4eHICGZ5pDFxggrZbEFoasGCJYCHgYrqjS5cc4g/v26B5Q==}
     peerDependencies:
       react: '>=16.8'
     dependencies:
-      '@remix-run/router': 0.2.0-pre.3
+      '@remix-run/router': 0.2.0-pre.4
       react: 18.2.0
     dev: false
 
