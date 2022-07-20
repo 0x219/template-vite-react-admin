@@ -1,3 +1,10 @@
+import { ConfigProvider } from "antd";
+import { Outlet } from "react-router-dom";
+
 export default function App() {
-  return <div>1</div>;
+  return (
+    <ConfigProvider>
+      <Outlet />
+    </ConfigProvider>
+  );
 }
