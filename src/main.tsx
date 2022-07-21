@@ -2,6 +2,7 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { DataBrowserRouter } from "react-router-dom";
 import routes from "@/routes";
+import "./global";
 
 const container = document.getElementById("root") as HTMLElement;
 
