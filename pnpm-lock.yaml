@@ -4,7 +4,7 @@ specifiers:
   '@types/react': 18.0.15
   '@types/react-dom': 18.0.6
   '@vitejs/plugin-react': 2.0.0
-  antd: 5.0.0-experimental.7
+  antd: 5.0.0-experimental.8
   autoprefixer: 10.4.7
   axios: 1.0.0-alpha.1
   dayjs: 1.11.4
@@ -22,7 +22,7 @@ specifiers:
   vite-tsconfig-paths: 3.5.0
 
 dependencies:
-  antd: 5.0.0-experimental.7_biqbaboplfbrettd7655fr4n2y
+  antd: 5.0.0-experimental.8_biqbaboplfbrettd7655fr4n2y
   axios: 1.0.0-alpha.1
   dayjs: 1.11.4
   react: 18.2.0
@@ -647,8 +647,8 @@ packages:
       color-convert: 1.9.3
     dev: true
 
-  /antd/5.0.0-experimental.7_biqbaboplfbrettd7655fr4n2y:
-    resolution: {integrity: sha512-5EnxbXsAgQXarythq1CXmRuOb8hrMNhGHi8RBoKgn4YmPkX7tn5Bg1T+PHAEX/Np0hIUOrvkoVp6H7Zsi6Wssw==}
+  /antd/5.0.0-experimental.8_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-YC4+F8W4P/jHMTApBsEDcgkfwKV19nrbAE2gybbupXLtef6zX//huQCc5vppx0y/DjdwSzKmxKFmVbw2Q7C8sw==}
     peerDependencies:
       react: '>=16.9.0'
       react-dom: '>=16.9.0'
