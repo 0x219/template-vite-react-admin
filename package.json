@@ -16,7 +16,7 @@
     "dayjs": "1.11.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "6.4.0-pre.9",
+    "react-router-dom": "6.4.0-pre.10",
     "superjson": "1.9.1"
   },
   "devDependencies": {
